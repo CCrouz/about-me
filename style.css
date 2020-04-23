@@ -33,27 +33,27 @@ body {
 }
 
 .titre {
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 38px;
     margin-bottom: 8px;
 
 }
 
 .sous-titre {
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 22px;
     color: #DB596F;
     margin-bottom: 8px;
 }
 
 .paraph1 {
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 16px;
     margin-bottom: 8px;
 }
 
 .paraph2 {
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 16px;
     margin-bottom: 30px;
 }
